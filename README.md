@@ -1,5 +1,7 @@
 # DocsFetcher MCP Server
 
+[![smithery badge](https://smithery.ai/badge/@cdugo/mcp-get-docs)](https://smithery.ai/server/@cdugo/mcp-get-docs)
+
 An MCP server that fetches npm package documentation and provides it in a format suitable for LLMs like Claude. This server follows standard MCP patterns by handling the data fetching, while providing guidance for the LLM client (Claude Desktop or Cursor IDE) on how to best summarize and present the information.
 
 ## Features
@@ -35,6 +37,14 @@ The server includes two specialized prompt templates:
 Each tool response includes instructions on how to use these prompts for better analysis.
 
 ## Installation
+
+### Installing via Smithery
+
+To install DocsFetcher for Claude Desktop automatically via [Smithery](https://smithery.ai/server/@cdugo/mcp-get-docs):
+
+```bash
+npx -y @smithery/cli install @cdugo/mcp-get-docs --client claude
+```
 
 ### Prerequisites
 
