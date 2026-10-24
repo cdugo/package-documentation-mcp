@@ -1,6 +1,6 @@
 # 📚 DocsFetcher MCP Server
 
-[![smithery badge](https://smithery.ai/badge/@cdugo/mcp-get-docs)](https://smithery.ai/server/@cdugo/mcp-get-docs)
+[![LightNow capabilities](https://lightnow.ai/badge/io.github.cdugo/package-documentation-mcp)](https://lightnow.ai/servers/io.github.cdugo/package-documentation-mcp)
 [![npm version](https://img.shields.io/npm/v/@cdugo/docs-fetcher-mcp.svg)](https://www.npmjs.com/package/@cdugo/docs-fetcher-mcp)
 [![npm downloads](https://img.shields.io/npm/dm/@cdugo/docs-fetcher-mcp.svg)](https://www.npmjs.com/package/@cdugo/docs-fetcher-mcp)
 
